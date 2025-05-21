@@ -1,7 +1,11 @@
 Hướng dẫn chạy
+
 Tạo tên database trên postgreSQl : smart-home ( Sau khi chạy backend sẽ ánh xạ lớp qua bảng sẽ tạo tự động các bảng  )
+
 Sau khi cài đặt influxd
+
 Tiến hành vào power shell chạy lệnh
+
 cd -path 'C:\Program Files\influxdb2-2.7.11-windows'   
 ./influxd
 
