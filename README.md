@@ -18,6 +18,7 @@ Tiến hành chạy sửa sổ lần lượt device-simulator, socket-server,bac
  
 Trên front end :
 Xóa node_modules và package-lock.json
+
 Chạy lệnh : 
 npm install
 
