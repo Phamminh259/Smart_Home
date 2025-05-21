@@ -12,6 +12,7 @@ cd -path 'C:\Program Files\influxdb2-2.7.11-windows'
 ![z6625644461609_99c1343d5ba7956d0cf95a65faac4652](https://github.com/user-attachments/assets/9a040142-5b94-4610-bce3-e58f18ddc581)
 
 Sau khi cài đặt mosquitto
+
 Vào cmd chạy lệnh
 mosquitto –v
 
