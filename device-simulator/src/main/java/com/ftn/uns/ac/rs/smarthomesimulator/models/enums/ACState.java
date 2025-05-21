@@ -1,0 +1,6 @@
+package com.ftn.uns.ac.rs.smarthomesimulator.models.enums;
+
+public enum ACState {
+    ON, OFF, HEAT_MODE, COOL_MODE, AUTO_MODE, DRY_MODE, FUNGUS_CHANGE, HEALTH_CHANGE,
+    FAN_SPEED_CHANGE, TEMP_CHANGE, SCHEDULE_ON, SCHEDULE_OFF, SCHEDULE, CANCEL_SCHEDULED
+}

@@ -1,0 +1,11 @@
+.img {
+    width: 20vh;
+    height: 20vh;
+    border: 5px solid #00ADB5;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.overflow {
+    overflow-y: auto;
+}
